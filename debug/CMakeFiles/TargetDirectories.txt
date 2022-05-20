@@ -1,0 +1,3 @@
+/home/pi/Desktop/Projects/cmake_ex/debug/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/Projects/cmake_ex/debug/CMakeFiles/CMAKE_EX.dir
+/home/pi/Desktop/Projects/cmake_ex/debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,1 @@
+/bin/c++  -O3 -DNDEBUG   CMakeFiles/CMAKE_EX.dir/home/pi/Desktop/Projects/cmake_ex/project/src/main.cpp.o  -o CMAKE_EX 

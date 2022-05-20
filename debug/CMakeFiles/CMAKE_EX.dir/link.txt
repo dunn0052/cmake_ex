@@ -1,0 +1,1 @@
+/bin/c++  -g   CMakeFiles/CMAKE_EX.dir/home/pi/Desktop/Projects/cmake_ex/project/src/main.cpp.o  -o CMAKE_EX 
